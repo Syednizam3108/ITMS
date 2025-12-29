@@ -1,0 +1,12 @@
+train: C:\Users\Lenovo\Desktop\ITM\ITMS\dataset\images\train
+val: C:\Users\Lenovo\Desktop\ITM\ITMS\dataset\images\val
+test: C:\Users\Lenovo\Desktop\ITM\ITMS\dataset\images\test
+
+nc: 6
+names:
+  - helmet
+  - no_helmet
+  - mobile_phone
+  - triple_riding
+  - license_plate
+  - motorcycle

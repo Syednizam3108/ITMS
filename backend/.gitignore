@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+*.db
+*.sqlite3
+venv/
+env/
+.vscode/
+.DS_Store
+app/static/uploads/*
+!app/static/uploads/.gitkeep
